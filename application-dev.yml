@@ -19,7 +19,7 @@ spring:
   redis:
     host: 192.168.195.8
     port: 6379
-    password: 
+    password: HX528780
     timeout: 10000
     lettuce:
       pool:
